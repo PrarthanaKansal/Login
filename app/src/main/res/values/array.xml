@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="source_labels">
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>ME</item>
+        <item>CE</item>
+
+    </array>
+    <array name="source_values">
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>ME</item>
+        <item>CE</item>
+    </array>
+
+</resources>
